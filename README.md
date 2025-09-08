@@ -1,2 +1,2 @@
 # WonJeong_Bank
-나는 나
+원정 은행
